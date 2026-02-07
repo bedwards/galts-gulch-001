@@ -1,0 +1,49 @@
+\documentclass[12pt, letterpaper]{article}
+
+% Minimal, clean layout for TTS/Speechify compatibility
+\usepackage[margin=1in]{geometry}
+\usepackage{fontspec}
+\usepackage{setspace}
+\usepackage{titlesec}
+\usepackage{parskip}
+
+% Clean serif font - good for OCR and TTS
+\setmainfont{Times New Roman}[
+  Ligatures=TeX
+]
+
+% 1.5 line spacing for readability
+\setstretch{1.4}
+
+% Chapter/section formatting - clean and minimal
+\titleformat{\section}[display]
+  {\normalfont\Large\bfseries\centering}
+  {}
+  {0pt}
+  {}
+\titlespacing*{\section}{0pt}{2em}{1em}
+
+\titleformat{\subsection}[display]
+  {\normalfont\large\bfseries\centering}
+  {}
+  {0pt}
+  {}
+\titlespacing*{\subsection}{0pt}{1.5em}{0.5em}
+
+% Fix pandoc tightlist
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% No headers/footers for clean TTS scanning
+\pagestyle{plain}
+
+% Metadata
+\title{}
+\author{}
+\date{}
+
+\begin{document}
+
+$body$
+
+\end{document}
