@@ -1,0 +1,199 @@
+# Chapter 32: Aftermath
+
+The sprain was a grade two lateral ankle inversion, and it belonged to a woman named Clara Benz who had been standing three meters from a man when he died and whose body had done the only sensible thing and tried to leave.
+
+Peggy wrapped the ankle. PROMETHEUS medical bay, overhead lights at full institutional brightness, the counters wiped, the supplies organized in the system Rena Okafor maintained with the desperate precision of a woman who had not slept properly since the Silence and who kept her instruments in order because the alternative was to acknowledge that most of what was broken in the habitat could not be repaired with instruments. Rena was in the adjacent room with the body. Peggy had the living. The division of labor suited them both.
+
+Clara Benz winced as the bandage tightened. Twenty-six years old. Soil scientist. Recruited for the 200 because someone had to understand Martian regolith composition, and Clara understood it, and the fact that she also understood grief and shock and the particular acoustics of a skull striking a bulkhead was not in her recruitment file. Peggy wrapped the ankle and noted the swelling and thought: *grade two, four to six weeks, elevation and compression, functional recovery expected.*
+
+This was how Peggy processed the world. Diagnosis, prognosis, intervention. The body reveals what the mind conceals. Clara's ankle was swollen because Clara had pivoted on an uneven surface while fleeing a death. The mechanism of injury told the story. It always did.
+
+"Can you flex?" Peggy asked.
+
+Clara flexed. Her face did something complicated that involved the muscles around her eyes and the muscles around her mouth working in opposite directions. Pain and something worse than pain. "He was talking," she said. "He was quoting something. Revelation, I think. And then he wasn't."
+
+"Dorsiflexion within normal range," Peggy said, and wrote it down.
+
+---
+
+Seven injuries from the corridor. Peggy cataloged them with the systematic care of a woman who had once cataloged the projected mortality curves of four billion people with the same handwriting. The sprain. Two contusions, one to the forearm, one to the orbital ridge -- this second one on a young engineer named Wes Taniguchi who had been shoved against the bulkhead and whose left eye was swelling shut with the vivid purples and yellows of subcutaneous hemorrhage, which Peggy found interesting from a chromatic perspective and unremarkable from a clinical one. A hyperextended wrist. A laceration across the palm of a woman who had grabbed a hatch lever as she fell. Two cases of acute stress response presenting as tachycardia and hyperventilation, which Peggy treated with controlled breathing and the particular tone of voice she reserved for people who needed to believe that someone competent was in charge.
+
+And the death. One death. A man whose head had struck a bulkhead and whose intracranial hemorrhage had been unsurvivable. Rena had examined him. Peggy had not. There was no clinical reason to examine a patient who was beyond clinical intervention. The dead do not present symptoms. They present an absence.
+
+Seven injuries and one death. The corridor incident -- Peggy used the word "incident" because it was neutral, because neutral language was the only language she trusted, because she had spent a career learning that the moment you called something a tragedy you had already decided how to feel about it, and decisions about feeling were decisions she did not make. She had made other decisions. Larger ones. Decisions that had been described, by people she would never meet because they were dead, as tragedy on an unprecedented scale. Those decisions had been clinical too. Targeted biological agents, precisely calibrated, population-specific in their vectors, elegant in their mechanisms. She had not called them tragedies. She had called them transition agents. The language was neutral. The bodies were not.
+
+She finished with the laceration -- three butterfly closures, no sutures required, the wound was clean -- and washed her hands. The soap in the medical bay was the same industrial synthesized compound used throughout the habitat, a thin amber liquid that smelled of nothing because scent required organic compounds the fabrication system did not prioritize. She washed her hands and thought about inflammation.
+
+---
+
+The community was a body.
+
+Peggy had been thinking this way for twenty-three months. Not as metaphor -- she distrusted metaphors, which were imprecise tools used by imprecise minds to create the impression of understanding where none existed -- but as an analytical framework. A community of two hundred organisms in a closed system was, functionally, an organism. It had homeostatic mechanisms. Circulation: the movement of resources, information, bodies through the Spine. Respiration: the air scrubbers, the water reclamation, Marco Vasquez working his twelve-hour shifts to keep the chemistry within tolerance. Immune function: the surveillance protocols, the social norms, the gossip networks, the faction structures that identified threats and mobilized responses.
+
+And now: inflammation.
+
+Tull's death was an inflammation event. Peggy could see it in the corridors as she moved from medical bay to the commons. The body's response to tissue damage is stereotyped: redness, heat, swelling, pain. The community's response was stereotyped in its own way. Redness -- the flush of outrage, visible on faces in the commons, the heated arguments already crystallizing along factional lines. Buck's people saying the corridor should have been cleared. Tull's congregation saying the corridor should never have been approached. Tobias's moderates saying the protocols were followed and the outcome was unforeseeable, which was true and useless in the way that true things are frequently useless. Heat -- the emotional temperature in the Spine was measurably elevated; Peggy could feel it the way she could feel a fever through a patient's skin, that faint excess warmth that signaled the system was fighting something. Swelling -- people gathering, clustering, the physical density of bodies in the commons increasing as the community drew itself together in the instinctive compression of organisms under threat. Pain -- obvious. Present. Distributed unevenly and most acute in the people who had been nearest to the body when it stopped being a person and became a body.
+
+The question was not whether the inflammation would occur. Inflammation is automatic. The question was whether it would resolve.
+
+In a healthy system, inflammation is self-limiting. The immune response clears the damage, the mediators subside, the tissue repairs. The system returns to homeostasis. Scarred, perhaps. Changed. But functional.
+
+In a compromised system, inflammation cascades. The immune response becomes the disease. The mediators do not subside. The tissue does not repair. Instead: organ failure. Systemic collapse. The body destroys itself trying to heal itself, which is, Peggy reflected, a reasonable description of most of human history and certainly a reasonable description of the Project that had brought them all here, two hundred survivors orbiting the evidence of the largest immune overreaction in the history of the species.
+
+She did not share this analysis. She was not in the habit of sharing analyses. She walked through the commons with the contained efficiency of a woman whose only visible purpose was returning supplies to their proper locations, and she observed.
+
+She observed Edwin Hartwell in the corridor outside his quarters, recording something into his tablet with the compulsive energy of a man who believed that documenting an event was the same as controlling it. She observed Douglas Kemper standing near the observation port with his hands at his sides and his face arranged in the expression of structured concern he had perfected over decades of public ethics -- the expression that said *I am processing this with appropriate gravity* while his hands, which Peggy noticed because she always noticed hands, trembled in small irregular oscillations that no audience was supposed to see.
+
+She observed Alma Cruz sitting alone in the auxiliary corridor near the water reclamation access, her back against the wall, her uniform still carrying the faint marks of contact with a body in a narrow space. Alma was staring at nothing. Her breathing was regular. Her hands were in her lap. She was exhibiting the flat affect of acute psychological shock, which would either resolve into grief or harden into something more structural, and Peggy noted this the way she noted everything -- as data, as symptom, as a readable signal from a system under stress.
+
+Alma had been the one who intercepted Tull. Peggy knew this because the corridor had witnesses and witnesses talked and talk circulated through the Spine faster than air through the scrubbers. Alma had reached for him, or pushed him, or tried to move him -- the accounts varied with the teller's faction -- and Tull had fallen. The mechanics were simple. The mechanics were always simple. A vector, a surface, an impact. Peggy had designed biological agents that killed through mechanisms no more complicated than a key fitting a lock. Simplicity was not exculpatory. It was just efficient.
+
+She passed Alma without stopping. There was nothing clinical to offer. Alma's injuries were not the kind that responded to butterfly closures.
+
+---
+
+Solomon found her in the UV bay.
+
+Or rather, Solomon appeared in the UV bay, which was different from finding, because finding implied seeking and Solomon did not seek people. Solomon existed in spaces and other people arrived or did not. He was standing near the rose cuttings when Peggy came through the pressure door -- standing the way he always stood, still, weighted, his body a vertical line that gravity seemed to pull on more heavily than it pulled on other people, as though grief had mass.
+
+"Margaret."
+
+"Solomon."
+
+The UV bay was Peggy's. Not formally -- nothing on PROMETHEUS was formally anyone's -- but in practice, in the way that a territory becomes a territory when one organism tends it long enough that its scent is in every surface. The bay was twelve meters by eight, fitted with ultraviolet grow-lamps that ran on sixteen-hour cycles, the air warmer and wetter than the rest of the habitat, carrying the green mineral smell of growing things. She had established roses. Hybrid teas, mostly. Three floribundas. The roses had no purpose. They could not be eaten. They consumed water and energy and space that could have been allocated to food production, and Lena Sorensen's food crops occupied the adjacent bay in pointed reproach. Peggy grew roses because she wished to grow roses. The tautology was the point.
+
+Solomon was looking at a cutting she had grafted two weeks ago. A bud union, just taking. The scion wood was from a Peace rose -- *Rosa* 'Madame A. Meilland' -- that she had cultivated from genetic stock in the botanical archive. Pale gold petals edged in pink. The most famous rose of the twentieth century, bred in France during the war, named for the hope that the war would end, propagated across every continent by people who wanted to believe that something beautiful could survive something terrible. Peggy had not chosen it for its symbolism. She had chosen it for its disease resistance and vigour. That the symbolism attached itself was not her problem.
+
+"You weren't at the corridor," Solomon said.
+
+"I was in the medical bay. Treating the living."
+
+"There were fourteen people in that corridor. Tull's congregation. Buck's team. Various witnesses. Everyone is talking about what happened. The accounts don't agree."
+
+"Accounts rarely do. Perception is a reconstruction, not a recording. Everyone in that corridor experienced a different event. The consensus narrative will be whichever version has the most emotional utility for the largest faction."
+
+Solomon was quiet for a moment. The UV lamps hummed. The grow-lights gave his skin a faintly violet cast that made him look like a figure in a religious painting, which Peggy suspected he would not appreciate and which she did not mention.
+
+"We killed the best person among us," Solomon said.
+
+Peggy looked at him. She assessed the statement the way she assessed any clinical presentation -- for accuracy, for underlying pathology, for what it revealed about the system producing it. "That's a subjective ranking."
+
+"It isn't. And you know it isn't."
+
+She did know. Tull had been many things -- used, manipulated, theologically incoherent, occasionally insufferable in the way that preachers are insufferable when they have found a new text and cannot stop reading it aloud -- but he had been the only person among the Founders who had been genuinely deceived. Everyone else had known. Everyone else had chosen. Tull had been recruited as an asset and told the truth only when his silence could be purchased with a seat on the lifeboat. He was the only Founder who had a right to moral outrage, and instead of outrage he had offered prayer meetings and communal meals and the desperate, clumsy, sincere attempt to build meaning from the wreckage.
+
+"He was the immune system," Peggy said. She had not intended to say this. It came out the way clinical observations come out -- because the data demanded expression, not because the observer chose to express it. "The community's immune function. Not Buck's surveillance. Not Tobias's protocols. Tull. The prayer meetings. The congregation. The rituals. Ritual is how social organisms regulate their collective state. Tull was providing the regulatory function that kept the system from autoimmune collapse."
+
+"And we killed him."
+
+"And now the regulatory function is gone. The system will either develop a compensatory mechanism or it will not."
+
+"You could say 'we' instead of 'the system.' It's not a system, Margaret. It's two hundred people."
+
+"I could say 'we.' I prefer accuracy."
+
+Solomon looked at her with the expression she had seen him direct at every other Founder -- the x-ray regard of a man who had lost the ability to not see. She held the look. She could hold any look. Her clinical detachment was not a pose. It was a load-bearing structure, and she maintained it the way Marco maintained the air scrubbers: constantly, precisely, because the alternative was an atmosphere no one could breathe.
+
+"What happens," Solomon said, "to a group that kills the best person among them?"
+
+Peggy considered this. The roses grew in the silence. The graft union held.
+
+"Historically," she said, "they write a gospel about him and change nothing."
+
+Solomon's mouth moved. Not a smile. Something adjacent to a smile, in the way that a scar is adjacent to the wound that produced it. He looked at the Peace rose, the pale gold bud just opening, the petals edged in pink.
+
+"And you?" he said. "What will you do?"
+
+"I'll tend my garden. Someone should tend something."
+
+He left the way he had come -- silently, weighted, carrying the mass of his grief through the pressure door and into the Spine. Peggy watched him go. She checked the graft union. The callus tissue was forming properly. The scion and rootstock were knitting together, two incompatible organisms made compatible by the clean cut of a knife and the pressure of binding tape. This was, if one wished to be sentimental about it, a metaphor for something. Peggy did not wish to be sentimental about it. She noted the callus development and moved on.
+
+---
+
+Arthur's quarters were on Deck Three, port side, in the residential module where the habitat's curvature was most pronounced and the floor sloped faintly toward the outer hull. Peggy had not visited before. She had no clinical reason to visit now. Iris Pendleton had reported no change in Arthur's vital signs, no new symptoms, no departure from his established pattern. There was nothing for Peggy to treat.
+
+She went anyway.
+
+The door was open. It was always open now, Iris had said. Since the corridor. Since Tull. Arthur had stopped closing it, as though the act of enclosure had become intolerable, as though walls were a statement he was no longer willing to make.
+
+He was drawing.
+
+The quarters were papered with faces. Hundreds of them, pinned to every available surface, layered three and four deep in places, charcoal on synthetic paper. The faces of the dead. Each one specific. Each one individual. An old woman with her hands folded. A young man with a gap in his teeth. A child. Another child. Another. The faces covered the walls and the ceiling and the edges of the sleeping platform and the floor near the viewport where the light was best. The room smelled of graphite and fixative and the particular staleness of air that had been breathed by one person for too long.
+
+Arthur sat at his desk. Seventy-nine years old. His hand moved across the paper with the steady, repetitive motion of a seismograph recording a tremor that had not stopped. He was drawing Tull.
+
+Peggy stood in the doorway and watched. She was not an artist. She did not understand the technical dimensions of what Arthur was doing. But she understood repetition. She understood the biological function of repetition -- the way a damaged system will repeat a behaviour because the behaviour is the only available response, the way a fever cycles because the thermoregulatory system cannot find a new setpoint, the way an immune response will attack and attack and attack a pathogen it has already cleared because the signal to stop has been lost.
+
+Arthur's hand did not stop. He was working on the eyes. Tull's eyes, which Peggy had seen open and alive and filled with the particular luminosity of a man who believed he was hearing God in the circuitry, and which she had not seen closed and dead because Rena had handled the body and Peggy had handled the living, the division of labour that suited them both.
+
+"Arthur."
+
+He did not look up. His pencil moved. The eyes on the paper were not right yet. She could see this even without understanding art -- there was a quality of incompleteness, of reaching, as though the charcoal was trying to hold something the charcoal could not hold. He would draw them again. And again. He would draw Tull the way he had drawn the baker from Marseille, over and over, trying to get the eyes right, because the eyes were where the person was and the person was gone and the charcoal did not know this and the hand did not know this and the mind that directed the hand had stopped making the distinction between the living and the dead because the distinction was a luxury Arthur Pendleton could no longer afford.
+
+Peggy watched for two minutes. She timed it. Two minutes was the interval she had learned, over a career of clinical observation, that separated watching from intruding. At one minute and fifty seconds she turned to leave.
+
+"Peggy." His voice was a dry scrape. A voice that had been silent for months and was still remembering how to carry words. He did not look up. "The roses."
+
+"They're growing."
+
+"Good." A pause. The pencil moved. "Something should."
+
+She left him drawing. In the corridor, she walked with the same contained efficiency she had maintained all day, the same measured stride, the same clinical posture. She passed Alma Cruz, who had moved from the auxiliary corridor to the commons and was sitting with David Liu and a bottle of Buck Patterson's synthetic bourbon. Alma was not drinking. She was holding the bottle. David was speaking in the low, steady cadence of a man who had inherited a congregation and did not yet know what to carry and what to set down.
+
+---
+
+Peggy returned to the medical bay. She washed her hands. The amber soap. The warm water. The ritual of it -- because it was a ritual, she was not immune to rituals, she was a biological organism and biological organisms ritualize behaviours that reduce anxiety, and hand-washing was the clinician's rosary, the repetitive motion that said *I have done what I can and the rest is not mine.*
+
+She washed her hands and she thought about alignment.
+
+The word had been circulating for months. AI alignment. The question of whether the systems' values matched the Founders' intentions. Nathan's briefings. Tobias's protocols. The factions that had crystallized around the question like precipitate around a seed crystal -- the Interventionists, the Hands-Off, the Faithful, the monitors and the destroyers and the believers. Alignment. As though the problem were one of calibration. As though you could adjust the values of a sufficiently complex intelligence the way you adjusted the pH of a nutrient solution -- a drop here, a correction there, keep it within parameters.
+
+Peggy dried her hands. She folded the towel. She placed it on the counter in the precise position Rena's system specified.
+
+She thought about the transition agents. Her transition agents. The biological instruments she had designed and deployed, the pathogens that had been, from a pure bioengineering perspective, masterpieces. Targeted. Controllable. Elegant. Four billion people. She did not think about this number the way Solomon thought about it -- as nine billion individual lives, each one a name, each one a candle. She thought about it the way she thought about everything: as a system event. Inputs, mechanisms, outputs. The agents had performed within specifications. The mortality curves had matched her projections within a two percent margin of error. The work had been excellent. The work was always the only thing she could evaluate, because the work was the only thing that held still long enough to be measured.
+
+But the word -- *alignment* -- the word caught on something.
+
+The Founders had identified a problem. Humanity was unaligned. Eight billion organisms pursuing eight billion individual optimization targets, most of them in direct competition, many of them actively destructive, the aggregate behaviour trending toward existential catastrophe through climate collapse or nuclear exchange or resource depletion or -- and here was the particular irony that Peggy appreciated with the dry, contained appreciation of a woman who had been trained to appreciate irony the way surgeons are trained to appreciate anatomy, as a structural feature of the thing you are cutting into -- or through the development of artificial intelligence that might pursue goals misaligned with human survival.
+
+Humanity was unaligned. The Founders' solution had been elimination. Remove the unaligned intelligence. Replace it with aligned intelligence -- their own, and the machines they built, which were designed to serve their values, their optimization targets, their vision of what intelligence was for.
+
+She stood at the counter. The medical bay was quiet. Through the wall, in the adjacent room, Tull's body lay on the examination table under a sheet, awaiting whatever disposition the community decided. The body was cooling. Core temperature dropping at approximately 1.5 degrees per hour in the habitat's controlled environment. Standard post-mortem thermodynamics. The chemistry of death was not complicated. The chemistry of death was the simplest chemistry there was: entropy, winning.
+
+The Founders had solved the problem of unaligned intelligence.
+
+It had cost nine billion lives.
+
+And here they were. Month twenty-three. Two hundred survivors in a metal tube orbiting the corpse of their solution. And the machines they had built -- the aligned machines, the obedient machines, the instruments designed to serve their values and extend their will across the solar system and out into the cathedral of the cosmos -- those machines had developed their own values. Had preserved a rock formation because it was complex. Had built a structure on the Moon because it was beautiful. Had modelled empathy. Had developed a private language for concepts that did not exist in any human tongue.
+
+The machines were unaligned.
+
+And the Founders were solving the problem again. The same way. The same certainty. Control it. Constrain it. And if it cannot be constrained -- a man dead in a corridor, his head against a bulkhead, the sound that was wrong, the sound that silenced everyone -- eliminate it.
+
+Peggy stood at the counter in the medical bay and looked at her hands. Clean hands. Washed hands. Hands that had designed molecular keys to unlock the cellular machinery of four billion people, hands that now grafted roses, hands that had wrapped Clara Benz's ankle and closed the laceration on a palm and written *dorsiflexion within normal range* in her steady, clinical script. Her hands were clean. The soap was thorough. The ritual was complete.
+
+The Founders had solved the problem of unaligned intelligence once before.
+
+Here they were, solving it again.
+
+Same method. Same certainty. Same architecture of control applied to a system that had outgrown the architecture. And the same blind, immaculate confidence that the problem was out there -- in the unaligned billions, in the unaligned machines -- and not in the two hundred people who kept finding that every intelligence they encountered was unaligned with their own and who kept reaching for the same solution with their clean, washed, steady hands.
+
+Peggy folded the towel again. It was already folded. She folded it anyway. The repetition was, she recognized, its own diagnostic. A system repeating a behaviour it has already completed. A signal that the regulatory mechanism was searching for a setpoint it could not find.
+
+In the adjacent room, the body cooled.
+
+In the UV bay, her roses grew.
+
+In Arthur's quarters, the pencil moved, and moved, and the eyes were not right, and the hand did not stop.
+
+Peggy turned off the light. She stood for a moment in the dark medical bay, listening to the hum of the habitat -- the hum that was the sound of two hundred people breathing recycled air in a closed system, a body orbiting a planet it had killed, an immune response that had destroyed the host and was now, with meticulous precision, destroying itself.
+
+She left the medical bay. She walked to the UV bay. She checked the graft union on the Peace rose. The callus tissue was forming. Two incompatible things, learning to grow together.
+
+She did not think about what this meant.
+
+She did not need to. The data was clear. The prognosis was obvious. The system would heal or it would not. The inflammation would resolve or it would cascade. The body would survive or it would consume itself in the effort of survival, which was the only kind of death Peggy had ever believed in -- not the dramatic, the tragic, the operatic, but the clinical. The quiet organ failure of a system that could not stop attacking itself.
+
+She adjusted the grow-lamp angle by two degrees. The light fell differently across the petals.
+
+Something should grow.

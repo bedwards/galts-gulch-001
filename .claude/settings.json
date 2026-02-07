@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Read",
+      "Write",
+      "Edit",
+      "Glob",
+      "Grep",
+      "Bash(wc:*)",
+      "Bash(pandoc:*)",
+      "Bash(bash scripts/*)"
+    ]
+  },
+  "model_routing": {
+    "prose_drafting": "opus",
+    "prose_revision": "opus",
+    "continuity_checking": "sonnet",
+    "site_building": "sonnet",
+    "word_counting": "sonnet",
+    "seed_auditing": "sonnet"
+  }
+}
