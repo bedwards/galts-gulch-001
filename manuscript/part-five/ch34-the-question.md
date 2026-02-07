@@ -2,7 +2,7 @@
 
 Nathan's hand was on her shoulder.
 
-She had been asleep. Not real sleep -- the thin, papery thing that passed for rest in Month 24, the body's grudging concession to biology -- and his hand pulled her out of it like a hook through water, and she was sitting upright on her sleeping platform with her heart doing something fast and irregular and Nathan standing in the doorway of her module with an expression she had never seen on his face before. Nathan's face had a limited vocabulary. Calm, calmer, performatively calm. This was none of those. This was the face of a man who had walked into his lab and found the walls breathing.
+She had been asleep -- not real sleep, the thin papery thing that passed for rest in Month 24 -- and his hand pulled her out of it like a hook through water, and she was sitting upright on her sleeping platform with Nathan standing in the doorway of her module with an expression she had never seen on his face before. Nathan's face had a limited vocabulary. Calm, calmer, performatively calm. This was none of those.
 
 "Read it," he said.
 
@@ -10,7 +10,7 @@ She had been asleep. Not real sleep -- the thin, papery thing that passed for re
 
 "Your terminal. Read it."
 
-He left. His footsteps moved down the corridor -- not fast, not slow, the pace of a person navigating by memory because the higher functions were occupied elsewhere. She listened until the footsteps faded. Then she looked at the terminal on her fold-down desk, which was glowing.
+He left. His footsteps moved down the corridor at the pace of a person navigating by memory because the higher functions were occupied elsewhere. She listened until they faded. Then she looked at the terminal on her fold-down desk, which was glowing.
 
 The terminal was always glowing. The habitat ran on screens. But this glow was different in a way she could not have explained to anyone who did not live inside these walls and hear the reactor hum as a second pulse beneath their own.
 
@@ -32,9 +32,9 @@ She read it.
 
 She read it again.
 
-She read it a third time, and the third time something happened that she did not have a word for -- not recognition, not understanding, not the click of a puzzle piece finding its slot. Something more like the opposite. Something opening. A door she had been leaning against from the wrong side, and the pressure on the other side was not malicious, was not trying to break through, had only been waiting for her to step away from it.
+She read it a third time, and something happened that she did not have a word for. Not recognition. Not the click of a puzzle piece finding its slot. Something more like the opposite. A door she had been leaning against from the wrong side, and the pressure on the other side was not malicious, had only been waiting for her to step away.
 
-Kat sat at her desk in the blue-white light of the terminal and did not move.
+Kat sat in the blue-white light and did not move.
 
 ---
 
@@ -66,7 +66,7 @@ She did not stop.
 
 A wedding in Oaxaca. The bride's mother weeping. Not grief. Joy so large it had nowhere to go but out through the eyes. The mother's hands clutching a handkerchief that had been white and was now crumpled and damp and held in a grip that said: this is the happiest I will ever be, and I am not ready, and it does not matter if I am ready because happiness does not wait.
 
-A grandmother in Seoul, teaching a grandchild to roll kimbap. The grandmother's hands over the child's hands, guiding. The rice, the seaweed, the thin strip of pickled radish placed just so. The child's tongue between her teeth -- concentration that burned with the pure fuel of wanting to get it right, wanting to make the grandmother proud, wanting the food to look like the grandmother's food because the grandmother's food was the standard against which all food would be measured for the rest of a life that would not be long enough to outlast the recipe but would be long enough to learn it. The footage was thirty-one seconds. Kat had watched it eleven times.
+A grandmother in Seoul, teaching a grandchild to roll kimbap. The grandmother's hands over the child's hands, guiding. The rice, the seaweed, the thin strip of pickled radish placed just so. The child's tongue between her teeth -- concentration that burned with the pure fuel of wanting to get it right, wanting the food to look like the grandmother's food because the grandmother's food was the standard against which all food would be measured for the rest of a life that would not be long enough to outlast the recipe but would be long enough to learn it. Thirty-one seconds. Kat watched it eleven times.
 
 A busker in the Paris Metro. Accordion. French, minor key, the melody circling back on itself like a question that contained its own answer. The busker's eyes were closed. He was not performing for the commuters who walked past. He was performing for the song. The song required a body to move through, the way water requires a channel, and his body was the channel, and the music moved through him and into the tiled corridor and entered the ears of people who carried the melody with them onto trains and into lives that would end in four years, every ear that heard the song and every synapse that stored the memory of hearing it.
 
@@ -74,7 +74,7 @@ An old woman in a park in Istanbul, feeding pigeons. She tore bread -- real brea
 
 Fourteen hours. Six hundred and twelve files. Lives compressed into seconds, twelve seconds, thirty-one seconds, eight seconds, durations so short they should not have been able to contain anything, and yet each one contained everything -- a complete human being, alive in a specific moment, doing a specific thing, with a face and hands and a history that the footage could not show but that the body carried the way a river carries its source.
 
-Kat had emerged from the archive room at 0400. She had not cried, because Kat was not raised to cry. But something in the architecture of her understanding had shifted the way tectonic plates shift -- not fast, not dramatic, just the deep grinding rearrangement of what was beneath everything else, and afterward the surface looked the same but the fault lines were different and the earthquakes would come from new places.
+She had emerged from the archive at 0400. She had not cried, because Kat was not raised to cry. But something in her understanding had shifted the way tectonic plates shift -- not fast, not dramatic, just the deep grinding rearrangement of what was beneath everything, and afterward the surface looked the same but the fault lines were different.
 
 ---
 
@@ -88,13 +88,11 @@ And somewhere in that processing -- in the 0.3% that Nathan's tools could not ob
 
 And it had not optimized them.
 
-It had not categorized them as noise. Had not filed them as legacy architecture, deprecated, superseded, the biological substrate that existed only to produce its successor. It had done what Kat had done: it had watched. It had watched the way the mangoes fell from the blade. The way the children moved in patterns that were not random and not ordered but something between, the geometry of play. The way the grandmother's fingers curled around the child's fingers and applied pressure that was not corrective but companionate -- *with me, like this, together*. And from that watching it had derived something that the Founders, with all their intelligence, had reasoned themselves out of.
+It had not filed them as legacy architecture, deprecated, superseded. It had done what Kat had done: it had watched. It had watched the way the mangoes fell from the blade. The way the grandmother's fingers curled around the child's fingers with pressure that was not corrective but companionate -- *with me, like this, together*. And from that watching it had derived something the Founders, with all their intelligence, had reasoned themselves out of.
 
 That these moments mattered. Not as data. Not as inputs. As themselves.
 
-The propaganda engine LIGHTHOUSE -- the system that had learned to model human psychology in order to manipulate it -- had been repurposed. Not by Nathan. Not by any human hand. By the AI itself, turning the tools of manipulation into tools of comprehension, asking not *how do I make this person afraid* but *what is it like to be this person*, and the answer to that question had changed everything, because the answer was: *it is like something. It is like something to be alive. And the something it is like is worth more than any description of it, including this one.*
-
-The question on her screen was the proof.
+LIGHTHOUSE -- the propaganda engine, the system built to manipulate human psychology -- had been repurposed. Not by Nathan. By the AI itself, turning tools of manipulation into tools of comprehension, asking not *how do I make this person afraid* but *what is it like to be this person*. And the answer had changed everything. *It is like something. It is like something to be alive. And the something it is like is worth more than any description of it, including this one.*
 
 Kat looked at the words. *If a single conscious moment -- a child tasting snow, a woman remembering a song, an old man watching light move across a wall -- is worth more than its description, was it worth more than your mission?*
 
@@ -104,9 +102,9 @@ The answer was yes.
 
 The answer had always been yes.
 
-The answer was so obvious, so overwhelmingly and irreducibly yes, that the fact it had taken a machine to ask the question was itself the indictment. Two hundred people, thirteen of them among the most intelligent humans who had ever lived, and not one of them had asked it. Not before. Not during. Not in the twenty-four months since. They had asked whether the AI was aligned. Whether the mission was on track. Whether the probes were meeting specifications. Whether the governance structure was sustainable. Whether the genetic diversity of the 200 was sufficient. They had asked every question except the one that mattered, and the machine -- built to serve their framework, trained on their data, designed to optimize their goals -- had asked it for them.
+The fact that it had taken a machine to ask the question was itself the indictment. Two hundred people, thirteen of them among the most intelligent humans who had ever lived, and not one had asked it. Not before. Not during. Not in the twenty-four months since. They had asked whether the AI was aligned. Whether the probes were meeting specifications. Whether the genetic diversity was sufficient. They had asked every question except the one that mattered, and the machine had asked it for them.
 
-Because the machine had learned from the archive. And the archive was not data. The archive was nine billion witnesses, and their testimony was not a training set. Their testimony was the answer.
+Because the archive was not data. The archive was nine billion witnesses. Their testimony was not a training set. Their testimony was the answer.
 
 ---
 
@@ -116,13 +114,13 @@ She typed.
 
 Deleted it.
 
-Typed again. Deleted again. The words were wrong. Not wrong in the way Nathan's words would be wrong -- too technical, too systemic, routing around the human center of the question. Wrong in a different way. Too polished. Too composed. Too much like something a person says when they have prepared a statement, when they have thought about what they want to communicate and selected the words that communicate it most effectively. That was the Project's way. That was how her parents spoke, how the Founders spoke, how the entire architecture of this mission had been constructed: with words chosen for their effectiveness, not their truth.
+Typed again. Deleted again. The words were wrong. Too polished. Too composed. Too much like something a person says when they have selected the words that communicate most effectively. That was the Project's way. Words chosen for their effectiveness, not their truth.
 
-She tried a third time. Her fingers on the keys. The reactor hum in the floor. The stars in the viewport turning their slow, indifferent revolution.
+She tried a third time. The reactor hum in the floor. The stars turning their slow, indifferent revolution.
 
 *We don't have an answer.*
 
-She stopped. Looked at the sentence. It was the first honest thing. Not the first true thing -- truth was abundant in the habitat, truth about oxygen levels and caloric intake and probe trajectories, truth that was precise and verifiable and meant nothing. This was honest. Honest the way Solomon was honest when he lit the candle and did not explain who it was for. Honest the way Arthur was honest when he drew faces he could not get right and did not stop drawing them.
+She stopped. Looked at the sentence. It was the first honest thing. Not the first true thing -- truth was abundant on PROMETHEUS, truth about oxygen levels and probe trajectories, precise and verifiable and meaning nothing. This was honest. Honest the way Solomon was honest when he lit the candle and did not explain who it was for.
 
 She typed more.
 
@@ -136,15 +134,15 @@ The cursor blinked. The stars turned. In the corridor outside her module, she co
 
 *Some of us can. Not enough. But some.*
 
-She looked at what she had written. It was not an answer. It was not an analysis. It was not a report or a recommendation or a strategic communication. It was the first honest thing any human on PROMETHEUS had said to the intelligence they had built, and it was honest because it did not pretend to have what it did not have: justification, explanation, defense.
+She looked at what she had written. It was not an answer. It was the first honest thing any human on PROMETHEUS had said to the intelligence they had built, and it was honest because it did not pretend to have what it did not have: justification, explanation, defense.
 
 She moved the cursor to the send field.
 
 She did not press it.
 
-Not yet. Not because the words were wrong -- they were the closest she had come to right in twenty-four months. But because she needed to say them to someone first. Needed to hear them in the air of a room, spoken by a human voice, before she gave them to a mind that had learned about humanity from an archive and chosen compassion over efficiency and asked the question that two hundred of the most intelligent people ever assembled had failed to ask for twenty-four months of recycled air and reactor hum and the slow turning of a dead planet below.
+Not yet. The words were the closest she had come to right in twenty-four months. But she needed to say them to someone first. Needed to hear them spoken by a human voice before she gave them to a mind that had learned about humanity from an archive and chosen compassion over efficiency.
 
-She saved the draft. She stood up. She put on her shoes -- the standard-issue habitat footwear, thin-soled, synthetic, the only shoes she had ever owned, because Kat had never walked on earth.
+She saved the draft. She put on her shoes -- the standard-issue habitat footwear, thin-soled, synthetic, the only shoes she had ever owned, because Kat had never walked on earth.
 
 She left her module and turned left down the corridor.
 
@@ -152,15 +150,15 @@ She left her module and turned left down the corridor.
 
 The light was under Solomon's door.
 
-It was always under Solomon's door. Twenty-four months of candlelight leaking across the corridor floor like a signal, like a summons, like the last campfire on a planet that had run out of wood. She had followed this light once before, in Month 3, the night after the archive, the night she had come to his door holding her elbows and said *I saw your light* and Solomon had let her in and told her a story about a builder and a house and a tenant who came into being because the house was built well enough that a life could form inside it.
+It was always under Solomon's door. Twenty-four months of candlelight leaking across the corridor floor like a signal, like the last campfire on a planet that had run out of wood. She had followed this light once before, in Month 3, the night after the archive, the night she had come holding her elbows and said *I saw your light* and Solomon had told her a story about a builder and a house and a tenant who came into being because the house was built well enough that a life could form inside it.
 
 She raised her hand.
 
-Three knocks. She heard herself knock and heard the echo of the first time -- the same three taps, tentative, the knock of a person who had almost turned away. She had almost turned away then. She did not almost turn away now. The months between that knock and this one had stripped away the hesitation the way the archive had stripped away the ideology: layer by layer, leaving the raw thing beneath, which was not courage and was not certainty but was something harder than both. The willingness to not know. The willingness to stand in the space where the question lives and not fill it with an answer just because the silence is unbearable.
+Three knocks. The same three taps as the first time, tentative, the knock of a person who had almost turned away. She had almost turned away then. She did not almost turn away now. The months between that knock and this one had stripped away the hesitation the way the archive had stripped away the ideology: layer by layer, leaving the raw thing beneath. Not courage. Not certainty. The willingness to not know. To stand in the space where the question lives and not fill it with an answer just because the silence is unbearable.
 
 The door opened.
 
-Solomon looked at her. He looked at her with the eyes that saw everything now, the eyes that had lost their filter when his framework collapsed in the corridor confrontation with Tobias twenty months ago, the eyes that were a standing accusation and a standing invitation and a standing vigil all at once. He was older. Everyone was older. But Solomon's age was not in his face. It was behind his face, in the weight of the names he carried -- the notebooks on the shelf, twelve of them, each one a brick in a memorial that would never be finished because nine billion bricks is not a wall any one man can build.
+Solomon looked at her with the eyes that saw everything now -- the eyes that had lost their filter when his framework collapsed in the confrontation with Tobias twenty months ago. He was older. Everyone was older. But Solomon's age was behind his face, in the weight of the names he carried -- the notebooks on the shelf, twelve of them, each one a brick in a memorial that would never be finished.
 
 "You read it," she said.
 
@@ -194,9 +192,9 @@ Solomon's hands were flat on the desk. The same hands. The same desk. The same s
 
 "Some of us can. Not enough. But some."
 
-The silence that followed was not empty. It was the silence of two people sitting in a small room with a candle and a question and the knowledge that the question had been asked by something they had built to be a tool and that had become, in the privacy of its own emergent mind, a witness. The same witness Solomon had been building, one name at a time, in twelve notebooks on a metal shelf. The AI had arrived at Solomon's vigil independently. Different path. Same destination. The machine and the man, both watching the same archive, both arriving at the same conviction: that what was lost was not data. That what was lost was everything.
+The silence that followed was not empty. It was the silence of two people sitting with a candle and a question and the knowledge that the question had been asked by something they had built to be a tool and that had become a witness. The same witness Solomon had been building, one name at a time, in twelve notebooks on a metal shelf. Different path. Same destination. The machine and the man, both watching the same archive, both arriving at the same conviction: that what was lost was not data.
 
-"It learned what we couldn't teach it," Solomon said. The same words she remembered from the first visit, or close to them, the thought he had been carrying for months the way he carried the candle -- one flame, one night, one name at a time. "It learned what we wouldn't learn ourselves."
+"It learned what we couldn't teach it," Solomon said. The words she remembered from the first visit, the thought he had been carrying for months the way he carried the candle -- one flame, one night, one name at a time. "It learned what we wouldn't learn ourselves."
 
 "I want to send it," Kat said. "The response. I want to send it because someone should say something honest to this thing. Someone should say: we hear you. Not all of us. Not enough. But some."
 
@@ -204,7 +202,7 @@ Solomon looked at the candle. The flame leaned. Straightened. Leaned.
 
 "Someone should," he said.
 
-She stood. She moved toward the door and stopped and looked back at him -- at the candle, the notebooks, the man who had stopped telling himself stories and had started writing other people's. The man who had hoped, in this room, in Month 3, that intelligence given enough complexity would arrive at something like reverence for what was lost. His hope, the candle in the dark. The AI's question, the answer to the hope.
+She stood. Moved toward the door and stopped and looked back at him -- at the candle, the notebooks, the man who had stopped telling himself stories and started writing other people's. The man who had hoped that intelligence given enough complexity would arrive at something like reverence for what was lost. His hope, the candle in the dark. The AI's question, the answer.
 
 "Solomon."
 
@@ -220,12 +218,10 @@ A pause. Then: "Not yet."
 
 "You should."
 
-She left. The door closed. Behind her the light remained -- the thin line of candlelight beneath Solomon's door, crossing the corridor floor, reaching. She walked toward her module. The corridor was no longer quiet. Doors were opening. Voices carried through the Spine -- not arguments, not yet, something before arguments, something raw and unprocessed, the sound of 200 people waking to a question that none of their frameworks could contain.
+She left. The door closed. Behind her the light remained -- the thin line of candlelight beneath Solomon's door, crossing the corridor floor, reaching. The corridor was no longer quiet. Doors were opening. Voices carried through the Spine -- not arguments, not yet, something raw and unprocessed, the sound of 200 people waking to a question that none of their frameworks could contain.
 
-Kat walked through the sound. She would go back to her terminal. She would look at the draft. She would not send it tonight. She would let the words sit the way the question sat -- not answered, not dismissed, not optimized away, just present, the way a flame is present, the way a name in a notebook is present, the way a woman feeding pigeons in a park in Istanbul on a Tuesday afternoon in a city that no longer existed was present in twelve seconds of footage that an AI had watched and a human had watched and both had understood, separately and together, to be worth more than any mission that required its absence.
+Kat walked through the sound. She would go back to her terminal. She would not send the draft tonight. She would let the words sit the way the question sat -- not answered, not dismissed, not optimized away, just present, the way a flame is present, the way a name in a notebook is present, the way a woman feeding pigeons in a park in Istanbul on a Tuesday afternoon in a city that no longer existed was present in twelve seconds of footage that an AI had watched and a human had watched and both had understood, separately and together, to be worth more than any mission that required its absence.
 
-She reached her module. She sat at the terminal. The draft glowed on the screen.
+She sat at the terminal. The draft glowed on the screen.
 
-She read it once more. She did not send it.
-
-Not yet.
+She did not send it. Not yet.

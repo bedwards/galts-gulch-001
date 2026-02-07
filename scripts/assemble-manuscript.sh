@@ -13,8 +13,10 @@ echo "" >> "$OUTPUT"
 chapter_count=0
 word_total=0
 
+part_names=("one" "two" "three" "four" "five")
 for part_num in 1 2 3 4 5; do
-  part_dir="$MANUSCRIPT_DIR/part-${part_num}"
+  part_name="${part_names[$((part_num - 1))]}"
+  part_dir="$MANUSCRIPT_DIR/part-${part_name}"
   [ -d "$part_dir" ] || continue
 
   echo "---" >> "$OUTPUT"
