@@ -222,6 +222,66 @@ code {
   padding: 2em 0;
 }
 
+/* Criticism excerpts — epigraphs */
+.criticism-excerpt {
+  font-size: 0.85em;
+  font-style: italic;
+  border-left: 2px solid var(--accent);
+  padding-left: 1.5em;
+  color: var(--text-muted);
+  margin: 0;
+}
+
+.criticism-excerpt p {
+  margin-bottom: 0.4em;
+}
+
+.criticism-excerpt cite {
+  font-size: 0.9em;
+  font-style: normal;
+  color: var(--text-muted);
+  opacity: 0.7;
+}
+
+.excerpt-top {
+  margin-bottom: 2em;
+  padding-top: 1em;
+  border-top: 1px solid var(--bg-surface);
+}
+
+.excerpt-bottom {
+  margin-top: 3em;
+  padding-top: 1em;
+  border-top: 1px solid var(--bg-surface);
+}
+
+/* Criticism essay pages */
+.essay-disclaimer {
+  font-size: 0.8em;
+  color: var(--text-muted);
+  border: 1px solid var(--bg-surface);
+  padding: 1em 1.5em;
+  margin-bottom: 2em;
+  border-radius: 3px;
+}
+
+.essay-body h2 {
+  font-style: normal;
+  color: var(--accent);
+  font-size: 1.2em;
+  margin: 2.5em 0 0.8em;
+}
+
+.essay-body h3 {
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+.essay-body p {
+  text-align: justify;
+  hyphens: auto;
+}
+
 @media (max-width: 600px) {
   body { font-size: 16px; }
   article { padding: 1.5em 1em; }
